@@ -21,3 +21,7 @@ li {
 body {
 	background-image : url(http://img.hebus.com/hebus_2012/12/20/preview/1356021001_45801.jpg)
 }
+
+.liste {
+  text-decoration: underline; 
+}
