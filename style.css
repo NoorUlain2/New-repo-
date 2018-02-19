@@ -1,0 +1,22 @@
+.titre {
+	color : #00BFFF ;
+	font-size : 30px ;
+}
+
+h1 {
+	color : #008080 ;
+	Font-Family : Arial ;
+}
+
+p {
+	color : #20B2AA ;
+	font-size : 20px ;
+}
+
+li {
+	color: #20B2AA
+}
+
+body {
+	background-image : url(http://img.hebus.com/hebus_2012/12/20/preview/1356021001_45801.jpg)
+}
